@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/csdisco/ss-disco-docs-type-system.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/csdisco/search-generalized-grouping-poc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev" />
