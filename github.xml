@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="803883a4-e19a-4947-b38f-aeb7bb71a3a5" name="jsnyder-csdisco">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
   </component>
